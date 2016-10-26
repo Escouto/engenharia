@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Michael Escouto
 #exibe informações sobre cada dispositivo enthernet conectado a rede
 ip addr show 
 #O comando Pausa o script
